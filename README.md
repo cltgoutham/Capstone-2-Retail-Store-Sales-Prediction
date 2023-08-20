@@ -31,7 +31,11 @@ This dataset consist of two csv files:
 * Univariate Analysis
 * Bivariate Analysis
 * Multivariate Analysis
-  (image)
+
+  
+![newplot](https://github.com/cltgoutham/Capstone-2-Retail-Store-Sales-Prediction/assets/124442638/711454cf-190c-4355-a9fa-e8506aacb288)
+![download](https://github.com/cltgoutham/Capstone-2-Retail-Store-Sales-Prediction/assets/124442638/3d65455c-85d0-4136-a5c4-f73426f7d54f)
+![newplot (2)](https://github.com/cltgoutham/Capstone-2-Retail-Store-Sales-Prediction/assets/124442638/462db3a2-1a20-443e-83f4-8f4a7846f640)
 
 ## 3.**Feature Engineering**
 * Nullvalue Treatment
@@ -40,7 +44,8 @@ This dataset consist of two csv files:
 * Multicolenearity
 * Feature Scaling
 * Feature Selection
-  (image - multicolenearity)
+![download (1)](https://github.com/cltgoutham/Capstone-2-Retail-Store-Sales-Prediction/assets/124442638/e653fa69-1093-4a4f-a4f7-495373354877)
+
 
 ## 4.**Model Building**
 
