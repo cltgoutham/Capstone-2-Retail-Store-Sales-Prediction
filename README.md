@@ -3,7 +3,7 @@ Machine Learning : Regression Project
 
 We are provided with historical sales data for 1,115 Rossmann stores. We have to create a Machine Learning model to predict the sales.
 
-(Rossmann Image)
+![68747470733a2f2f6d656469612d63646e2e7472697061647669736f722e636f6d2f6d656469612f70686f746f2d732f31362f65312f65632f66372f726f73736d616e6e2e6a7067](https://github.com/cltgoutham/Capstone-2-Retail-Store-Sales-Prediction/assets/124442638/4588ec03-2dde-462c-9d68-a952bc2b4021)
 
 **Introduction**
 
@@ -26,7 +26,7 @@ This dataset consist of two csv files:
 * Examining the dataset to get basic informations
 * Merging the two dataset.
 
-## 2.**Exploratory Data Analysis
+## 2.**Exploratory Data Analysis**
 * Using different interactive plots made needed analysis
 * Univariate Analysis
 * Bivariate Analysis
