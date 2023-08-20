@@ -51,6 +51,10 @@ This dataset consist of two csv files:
 
 We used 6 moddels for the analysis : LinearRegressor, LassoRegressor, RidgeRegressor, DecisionTree, RandomForest, XGBoost.
 
+![Screenshot (2)](https://github.com/cltgoutham/Capstone-2-Retail-Store-Sales-Prediction/assets/124442638/f9b8a1d7-b132-4fc3-9d19-e57665d2873a)
+![Screenshot (4)](https://github.com/cltgoutham/Capstone-2-Retail-Store-Sales-Prediction/assets/124442638/1542aba4-9ced-433e-b85f-7892a847b846)
+
+
 ## 5.**Model Evaluation**
 4 Evaluation matrics are used for the evaluation of the Models.
 * MSE - Mean squared error
